@@ -1,0 +1,74 @@
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmAltaProducto.resources
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmAltaUsuario.resources
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmCrearUsuario.resources
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmEliminarProducto.resources
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmMdificarProducto.resources
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmVentas.resources
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.Menu_principal.resources
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.exe
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.deps.json
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.runtimeconfig.json
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBusiness.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBusiness.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CopyComplete
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\refint\SistemaGestionUI.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\ref\SistemaGestionUI.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.FrmProducto.resources
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmAltaProducto.resources
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmAltaUsuario.resources
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmCrearUsuario.resources
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmEliminarProducto.resources
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmMdificarProducto.resources
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.FrmProducto.resources
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.frmVentas.resources
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionEntities.Menu_principal.resources
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.GenerateResource.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfo.cs
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CoreCompileInputs.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\refint\SistemaGestionUI.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.exe
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.deps.json
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.runtimeconfig.json
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBusiness.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBusiness.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CopyComplete
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.genruntimeconfig.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\ref\SistemaGestionUI.dll

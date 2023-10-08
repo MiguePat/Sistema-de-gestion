@@ -1,0 +1,24 @@
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll

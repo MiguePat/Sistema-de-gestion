@@ -1,0 +1,34 @@
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionBusiness.deps.json
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionBusiness.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionBusiness.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.csproj.CopyComplete
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\refint\SistemaGestionBusiness.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\ref\SistemaGestionBusiness.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionBusiness.deps.json
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionBusiness.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionBusiness.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.csproj.AssemblyReference.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.AssemblyInfoInputs.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.AssemblyInfo.cs
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.csproj.CoreCompileInputs.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.csproj.CopyComplete
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\refint\SistemaGestionBusiness.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\SistemaGestionBusiness.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionBusiness\obj\Debug\net6.0\ref\SistemaGestionBusiness.dll
