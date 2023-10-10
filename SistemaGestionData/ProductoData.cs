@@ -9,10 +9,10 @@ using SistemaGestionEntities;
 
 namespace SistemaGestionData
 {
-    public class ProductoData:IProductoData 
+    public class ProductoData
     {
         ///               Metodos para productos 
-        public void CrearProducto(Producto producto)
+        public static void CrearProducto(Producto producto)
         {
             string connectionString = @"Server=localhost;DataBase=SistemaGestion;
                                         Trusted_Connection=True";
@@ -44,7 +44,7 @@ namespace SistemaGestionData
 
         }
 
-        public void ModificarProducto(Producto producto)
+        public static void ModificarProducto(Producto producto)
         {
             string connectionString = @"Server=localhost;DataBase=SistemaGestion;
                                         Trusted_Connection=True";
@@ -79,7 +79,7 @@ namespace SistemaGestionData
             }
         }
 
-        public void EliminarProducto(Producto producto)
+        public static void EliminarProducto(Producto producto)
         {
             string connectionString = @"Server=localhost;DataBase=SistemaGestion;
                                         Trusted_Connection=True";

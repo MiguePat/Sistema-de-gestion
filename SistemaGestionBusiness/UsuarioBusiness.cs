@@ -9,17 +9,7 @@ using SistemaGestionEntities;
 namespace SistemaGestionBusiness
 {
     public static class UsuarioBusiness  {
-        // estructura de un metodo
-        // modificador {static /abstract} tipo de dato de retorno nombre de metodo (parametros)
-        //(
-        // codigo
-        //}
-        // ejemplo
-        // public static void algun_metodo ()
-        //otro ejemplo 
-        //public static string algun metodo el metodo que voy a traer
-        //public static List<Usuario> DevolverUsuarios()
-
+       
        
          public static List<Usuario> DevolverUsuarios()
          {
